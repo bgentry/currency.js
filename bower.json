@@ -1,0 +1,21 @@
+{
+  "name": "currency.js",
+  "main": "currency.js",
+  "version": "0.3.0",
+  "homepage": "http://scurker.github.io/currency.js",
+  "authors": [
+    "Jason Wilson"
+  ],
+  "description": "A javascript library for handling currencies",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
